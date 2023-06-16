@@ -1,0 +1,5 @@
+rootProject.name = 'TaskManager_AnnotationProcessing'
+include 'core'
+include 'data'
+include 'ui'
+
